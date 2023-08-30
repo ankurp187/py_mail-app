@@ -12,11 +12,6 @@ It has a feature as provided by windows for the password input and the show and 
 You can send your attachments as well.
 
 
-### **The Main Window**
-![alt text](main.png "This is the main page")
-The save button will help you saving your message.
-
-
 
 
 ### **The Attachment Window**
